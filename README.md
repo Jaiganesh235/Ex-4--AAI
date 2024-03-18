@@ -57,7 +57,9 @@ for t in range (len (observed_sequence)):
 print("The most likely sequence of Weather States is",most_likely_sequence)
 
 ## Output:
-Show your results here
+![image](https://github.com/Jaiganesh235/Ex-4--AAI/assets/118657189/37f08e2d-1cdc-473c-afd7-61238d5d1f97)
+![image](https://github.com/Jaiganesh235/Ex-4--AAI/assets/118657189/8b7858b7-d45d-4ba7-b3f1-3c87d1a9745c)
+
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
