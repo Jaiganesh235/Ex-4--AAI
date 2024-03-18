@@ -55,6 +55,7 @@ for t in range (len (observed_sequence)):
     most_likely_sequence.append ("rainy")
 
 print("The most likely sequence of Weather States is",most_likely_sequence)
+```
 
 ## Output:
 ![image](https://github.com/Jaiganesh235/Ex-4--AAI/assets/118657189/37f08e2d-1cdc-473c-afd7-61238d5d1f97)
