@@ -1,7 +1,7 @@
 <H3>NAME: S.JAIGANESH</H3>
 <H3>REGISTER NO: 212222240037</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:18.03.2024</H3>
+<H3>DATE:19.03.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
